@@ -1,2 +1,6 @@
 good morning
+<<<<<<< HEAD
 hello
+=======
+good afternoon
+>>>>>>> newshravas
